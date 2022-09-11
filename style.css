@@ -1,0 +1,36 @@
+h1{
+  color: #b33d18;
+  background: #006400;
+  font-size: 45px;
+  text-align: center;
+  padding: 10px;
+
+  
+}
+h3{
+  color: #b33d18
+}
+
+img{
+  width: 200px;
+  border: 3px solid brown;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+ 
+}
+
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: #b33d18
+}
+a:hover{
+  color:#006400
+}
+
+body{
+  font-family: sans-serif;
+  text-align: center
+}
